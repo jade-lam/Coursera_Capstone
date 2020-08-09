@@ -2,6 +2,7 @@
 IBM Data Science Professional Certificate Capstone Project
 
 To view version with Folium maps, please refer to below link:
+
 https://nbviewer.jupyter.org/github/jade-lam/Coursera_Capstone/blob/master/Coursera_Capstone_Project_The_Battle_of_Neighbourhoods.ipynb
 
 Introduction
