@@ -1,6 +1,9 @@
 # Coursera_Capstone
 IBM Data Science Professional Certificate Capstone Project
 
+To view version with Folium maps, please refer to below link:
+https://nbviewer.jupyter.org/github/jade-lam/Coursera_Capstone/blob/master/Coursera_Capstone_Project_The_Battle_of_Neighbourhoods.ipynb
+
 Introduction
 The food delivery business segment, is a ~USD 2500m dollar business in Canada in 2020. This is a sector with an expected CAGR of 8.6%. While there is a steady growth trend for online food delivery services, bulk of the revenue is still driven by deliveries from restaurant to consumer. In terms of customer profile, 2019 data suggests that close to 50% of users are below the age of 34 years old and bulk of their income is between low/ medium income. Given the existing penetration rate is just ~25% for restaurants to consumer delivery, and below 20% for platform to consumer delivery. This illustrates there is still huge potential and appetite for delivery businesses to be setup in Canada. (Data source: https://www.statista.com/outlook/374/108/online-food-delivery/canada)
 
